@@ -1,5 +1,8 @@
-GeoMet [![Build Status](https://secure.travis-ci.org/geomet/geomet.png?branch=master)](http://travis-ci.org/geomet/geomet)
-======
+# [geomet](https://github.com/geomet/geomet) with [superstring.py](https://github.com/btwael/superstring.py)
+
+An experiment to benchmark performance improvements in one of my favorite geospatial tools using superstring.py
+
+See the [benchmarks](benchmarks)
 
 Convert [GeoJSON](http://www.geojson.org/geojson-spec.html) to
 [WKT/WKB](http://en.wikipedia.org/wiki/Well-known_text) (Well-Known
